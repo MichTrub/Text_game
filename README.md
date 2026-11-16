@@ -5,53 +5,53 @@ A console RPG made in Python where players fight monsters, collect equipment, bu
 
 
 Features
-Two playable classes: Warrior and Assassin
+-Two playable classes: Warrior and Assassin
 
-Turn-based combat system
+-Turn-based combat system
 
-Inventory and equipment management
+-Inventory and equipment management
 
-Shops for buying and selling items
+-Shops for buying and selling items
 
-Experience and leveling system
+-Experience and leveling system
 
-Status effects such as poison
+-Status effects such as poison
 
-Randomly generated map encounters
+-Randomly generated map encounters
 
-Boss battle
+-Boss battle
 
-Technologies Used
+-Technologies Used
 
-Python 3
+-Python 3
 
-Random module
+-Random module
 
 
 This project helped me improve my skills in:
 
-Functions and program structure
+-Functions and program structure
 
-Input validation
+-Input validation
 
-Game logic design
+-Game logic design
 
-Inventory systems
+-Inventory systems
 
-Combat mechanics
+-Combat mechanics
 
-Debugging larger Python projects
+-Debugging larger Python projects
 
 
 
 Future Improvements
 
-More locations and enemies
+-More locations and enemies
 
-Save/load system
+-Save/load system
 
-Additional character classes
+-Additional character classes
 
-Quests and storylines
+-Quests and storylines
 
-Improved event system
+-Improved event system
