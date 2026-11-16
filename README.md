@@ -17,12 +17,14 @@ Random module
 What I Learned
 This project helped me improve my skills in:
 
+
 Functions and program structure
 Input validation
 Game logic design
 Inventory systems
 Combat mechanics
 Debugging larger Python projects
+
 
 Future Improvements
 More locations and enemies
